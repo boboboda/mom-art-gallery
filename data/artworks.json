@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "갈대 밭",
+    "description": "인쇄 및 조판 산업의 단순한 더미 텍스트입니다. Lorem Ipsum은 1500년대 무명 인쇄업자가 활자 갤리를 가져와 활자 견본 책을 만들기 위해 뒤섞인 이후 업계 표준 더미 텍스트였습니다.",
+    "image": "/backgroundImg.jpeg",
+    "category": "풍경화",
+    "year": "2024",
+    "medium": "유화",
+    "size": "50x70cm",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "광명",
+    "description": "빛이 가득한 아침의 풍경을 표현한 작품입니다.",
+    "image": "/title_img_1.jpeg",
+    "category": "풍경화",
+    "year": "2024",
+    "medium": "수채화",
+    "size": "40x60cm",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "작품 3",
+    "description": "자연의 아름다움을 담은 작품",
+    "image": "/title_img_2.jpeg",
+    "category": "풍경화",
+    "year": "2024",
+    "medium": "유화",
+    "size": "60x80cm",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "작품 4",
+    "description": "평화로운 순간을 포착한 작품",
+    "image": "/title_img_3.jpeg",
+    "category": "풍경화",
+    "year": "2023",
+    "medium": "수채화",
+    "size": "30x40cm",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "작품 5",
+    "description": "마음의 평온함을 그린 작품",
+    "image": "/title_img_4.jpeg",
+    "category": "풍경화",
+    "year": "2023",
+    "medium": "아크릴",
+    "size": "70x90cm",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "작품 6",
+    "description": "희망의 메시지를 담은 작품",
+    "image": "/title_img_5.jpeg",
+    "category": "풍경화",
+    "year": "2024",
+    "medium": "유화",
+    "size": "50x70cm",
+    "featured": false
+  }
+]
